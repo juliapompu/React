@@ -23,3 +23,12 @@
 //title
 //<Button titel="Enviar" onPress={handleMessage}></AButton> //<- assim ele faz um botão onde tada vez que vc clica ele coloca uma mensagem!
 
+//botão precisa nescessariamente de um titulo
+
+//onPress é o evento que vai ser disparado quando o botão for clicado
+//mas quando vc precisa que o botão funcione com o onpress, precisa ser declarada 
+//de forma separada;
+
+//headerShadowVisible- faz a barra do celular ou da web ficar com uma sombra... estetica
+//headerTintColor aplica cor a barra de cima com, #fff
+//tabBarStyle.backgroundColor- aplica cor na barra de baixo #fff
